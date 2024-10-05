@@ -1,11 +1,11 @@
 ## Hi, I'm Alex 👋
 - 🏫 I am currently a data science major attending Chaminade University of Honolulu
-- 🎓 I graduated from Wenatchee Valley College in 2024 with an Associates degree in arts and science
+- 🎓 I graduated from Wenatchee Valley College in 2024 with an Associates Degree in Arts and Science
 - ⚾️ I am a student-athlete on the baseball team
 - 🏡 I am from Seattle, Washington
 - 📬 Reach me at alexander.greb@student.chaminade.edu
 
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--
