@@ -1,7 +1,7 @@
 ## Hi, I'm Alex 👋
 - 🏫 I am currently a data science major attending Chaminade University of Honolulu
-- 🎓 I graduated from Wenatchee Valley College in 2024 with an Associates Degree in Arts and Science
 - ⚾️ I am a student-athlete on the baseball team
+- 🎓 I graduated from Wenatchee Valley College in 2024 with an Associates Degree in Arts and Science
 - 🏡 I am from Seattle, Washington
 - 📬 Reach me at alexander.greb@student.chaminade.edu
 
