@@ -1,10 +1,10 @@
 <h1 align="">  Hi, I'm Alex Greb 👋 </h1>
   
-- 🏫 I am currently a data science major attending Chaminade University of Honolulu
+- 🏫 I am currently a data science major with a computer science minor attending Chaminade University of Honolulu
 - ⚾️ I am a student-athlete on the baseball team
-- 🎓 I graduated from Wenatchee Valley College in 2024 with an Associates Degree in Arts and Science
+- 🎓 I graduated from Wenatchee Valley College in 2024 with an Associate's Degree in Arts and Science
 - 🏡 I am from Seattle, Washington
-- 📬 Reach me at alexander.greb@student.chaminade.edu
+- 📬 Reach me at alexander.greb@student.chaminade.edu or alexandergreb21@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
